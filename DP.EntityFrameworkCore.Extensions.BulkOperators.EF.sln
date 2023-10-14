@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33927.249
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DP.EntityFrameworkCore.Extensions.BulkOperators.EF", "DP.EntityFrameworkCore.Extensions.BulkOperators.EF\DP.EntityFrameworkCore.Extensions.BulkOperators.EF.csproj", "{8D41A66B-754A-444B-A2F4-052E7E408EF1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".github", ".github", "{3D67228A-66F3-4823-8C5F-E2DB5AB77C5E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "workflows", "workflows", "{0BB3888B-C521-4BB2-86ED-53CD682087AE}"
+	ProjectSection(SolutionItems) = preProject
+		publish.yml = publish.yml
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0CF38992-EA09-4C82-B079-F581F7412646}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D41A66B-754A-444B-A2F4-052E7E408EF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D41A66B-754A-444B-A2F4-052E7E408EF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D41A66B-754A-444B-A2F4-052E7E408EF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D41A66B-754A-444B-A2F4-052E7E408EF1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0BB3888B-C521-4BB2-86ED-53CD682087AE} = {3D67228A-66F3-4823-8C5F-E2DB5AB77C5E}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2CDF7FDD-8857-4B3B-BAC3-A6012FF145FE}
+	EndGlobalSection
+EndGlobal

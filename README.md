@@ -1,5 +1,5 @@
 # DP.EntityFrameworkCore.Extensions.BulkOperators.EF
-This repository provides a batch operator extension for Entity Framework Core > 3.x, enabling efficient bulk operations. Please note that this library has been specifically tested with EF Core 2.0.0.
+This repository provides a batch operator extension for Entity Framework Core > 3.x, enabling efficient bulk operations.
 
 ## Some configs
 ### Configuration of Insert Fields

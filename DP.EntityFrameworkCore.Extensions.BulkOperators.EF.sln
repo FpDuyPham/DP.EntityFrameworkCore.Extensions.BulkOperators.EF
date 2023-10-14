@@ -10,6 +10,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "workflows", "workflows", "{0BB3888B-C521-4BB2-86ED-53CD682087AE}"
 	ProjectSection(SolutionItems) = preProject
 		publish.yml = publish.yml
+		.github\workflows\publish.yml = .github\workflows\publish.yml
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0CF38992-EA09-4C82-B079-F581F7412646}"

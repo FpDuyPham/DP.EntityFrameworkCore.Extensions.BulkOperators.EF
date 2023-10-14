@@ -1,5 +1,5 @@
 # yaml-language-server: $schema=https://json.schemastore.org/github-workflow.json
-
+# MAIL FILE 222
 name: publish
 on:
   workflow_dispatch: # Allow running the workflow manually from the GitHub UI
@@ -17,7 +17,7 @@ env:
   DOTNET_SKIP_FIRST_TIME_EXPERIENCE: 1
   DOTNET_NOLOGO: true
   NuGetDirectory: ${{ github.workspace}}/nuget
-  PROJECT_PATH: 'DP.EntityFrameworkCore.Extensions.BulkOperators.EF2X/DP.EntityFrameworkCore.Extensions.BulkOperators.EF2X.csproj'
+  PROJECT_PATH: 'DP.EntityFrameworkCore.Extensions.BulkOperators.EF/DP.EntityFrameworkCore.Extensions.BulkOperators.EF.csproj'
   PACKAGE_OUTPUT_DIRECTORY: ${{ github.workspace }}\output
   NUGET_SOURCE_URL: 'https://api.nuget.org/v3/index.json'
 
